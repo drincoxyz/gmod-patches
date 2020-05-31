@@ -7,11 +7,11 @@ The `font` value of the font table passed to `surface.CreateFont` will be transl
 For example, if you had:
 
 ```lua
-	surface.CreateFont("mystupidfont", {
-		font = "Comic Sans",
-		size = 16,
-		...
-	})
+surface.CreateFont("mystupidfont", {
+	font = "Comic Sans",
+	size = 16,
+	...
+})
 ```
 
 `"Comic Sans"` would become `"comic-sans.ttf"` on a Linux system, which is the file that will be required in the `resource/fonts` directory.
