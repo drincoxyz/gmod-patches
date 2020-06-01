@@ -1,4 +1,4 @@
-# Filled Surface Circle
+# surface-circle-filled
 
 This rewrites `surface.DrawCircle` to draw a filled circle rather than a hollow one.
 

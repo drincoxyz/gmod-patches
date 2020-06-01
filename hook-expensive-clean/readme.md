@@ -1,4 +1,4 @@
-# Expensive Hooks Cleanup
+# hook-expensive-clean
 
 This removes a bunch of expensive hooks that aren't really needed.
 

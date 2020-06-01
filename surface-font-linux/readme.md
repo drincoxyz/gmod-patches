@@ -1,4 +1,4 @@
-# Linux Surface Fonts
+# surface-font-linux
 
 This works around an issue in Garry's Mod where custom fonts created with `surface.CreateFont` require the font's file name on Linux instead of its actual font name like when used on Windows.
 

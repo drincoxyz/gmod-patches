@@ -1,4 +1,4 @@
-# Team Cleanup
+# team-default-clean
 
 This removes the useless default teams. These include:
 

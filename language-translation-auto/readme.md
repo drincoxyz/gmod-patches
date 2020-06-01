@@ -1,4 +1,4 @@
-# Multiple Language Phrases
+# language-translation-auto
 
 This rewrites `language.Add` to optionally accept a table instead of a string for the translation argument.
 

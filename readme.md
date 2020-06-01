@@ -1,4 +1,4 @@
-# GLua Patches
+# gmod-patches
 
 This is a collection of GLua patches for Garry's Mod that fix trivial issues and add useful features that should frankly be officially implemented in the game by default.
 

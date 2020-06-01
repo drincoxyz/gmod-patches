@@ -1,4 +1,4 @@
-# Draw Optimizations
+# draw-optimize
 
 This rewrites a bunch of drawing functions from the `draw` library to be slightly faster.
 
